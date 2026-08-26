@@ -1,0 +1,67 @@
+{
+  "brand": "NOVA",
+  "tagline": "Nowoczesna strona z panelem administracyjnym.",
+  "heroTitle": "Twoja marka.<br><span>Nowy poziom.</span>",
+  "heroText": "Edytuj treści bez grzebania w kodzie. Zaloguj się przez Discord i zarządzaj stroną z panelu administratora.",
+  "heroButton": "Poznaj ofertę",
+  "heroButtonUrl": "#services",
+  "secondaryButton": "Kontakt",
+  "secondaryButtonUrl": "#contact",
+  "aboutTitle": "O projekcie",
+  "aboutText": "To przykładowa treść. Całą zawartość możesz zmienić z panelu administratora.",
+  "stats": [
+    {
+      "value": "100+",
+      "label": "realizacji"
+    },
+    {
+      "value": "24/7",
+      "label": "dostępność"
+    },
+    {
+      "value": "5★",
+      "label": "ocena"
+    }
+  ],
+  "servicesTitle": "Oferta",
+  "services": [
+    {
+      "icon": "⚡",
+      "title": "Usługa pierwsza",
+      "text": "Krótki opis usługi.",
+      "price": "Od 499 zł"
+    },
+    {
+      "icon": "🚀",
+      "title": "Usługa druga",
+      "text": "Krótki opis usługi.",
+      "price": "Od 799 zł"
+    },
+    {
+      "icon": "💎",
+      "title": "Usługa trzecia",
+      "text": "Wycena indywidualna.",
+      "price": "Zapytaj"
+    }
+  ],
+  "whyTitle": "Dlaczego my?",
+  "features": [
+    {
+      "title": "Bezpiecznie",
+      "text": "Panel administratora jest oddzielony od publicznej strony i chroniony autoryzacją Discord."
+    },
+    {
+      "title": "Łatwo",
+      "text": "Treści strony zmieniasz z poziomu przeglądarki."
+    },
+    {
+      "title": "Szybko",
+      "text": "Zmiany są zapisywane od razu i pojawiają się na stronie."
+    }
+  ],
+  "contactTitle": "Kontakt",
+  "contactText": "Masz pytanie? Napisz do nas.",
+  "email": "kontakt@example.com",
+  "phone": "+48 123 456 789",
+  "footer": "© 2026 NOVA. Wszelkie prawa zastrzeżone."
+}
